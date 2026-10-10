@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Mastermind.Core/Mastermind.Core.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Mastermind.Tests/Mastermind.Tests.csproj" />
+  </Folder>
+</Solution>
