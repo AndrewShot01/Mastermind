@@ -1,0 +1,4 @@
+{
+  "colores": { "Y": "Yellow", "C": "Cyan", "K": "Black", "P": "Purple", "W": "White", "I": "Pink", "R": "Red", "B": "Brown", "G": "Green" },
+  "cheatCodes": [ { "codigo": "PISTA", "intentosDisponibles": 1 }, { "codigo": "AGOTADO", "intentosDisponibles": 0 } ]
+}

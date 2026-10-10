@@ -1,0 +1,4 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup><OutputType>Exe</OutputType><TargetFramework>net10.0</TargetFramework><ImplicitUsings>enable</ImplicitUsings><Nullable>enable</Nullable></PropertyGroup>
+  <ItemGroup><ProjectReference Include="../Mastermind.Core/Mastermind.Core.csproj" /><None Include="configuracion.json" CopyToOutputDirectory="PreserveNewest" /></ItemGroup>
+</Project>
