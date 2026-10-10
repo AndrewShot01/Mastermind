@@ -43,7 +43,7 @@ public sealed class Evaluador
             throw new ArgumentException("El tamaño debe ser 4 o 6.");
         if (patronSecreto.Length != intentoJugador.Length)
             throw new ArgumentException("El patrón y el intento deben tener el mismo tamaño.");
-        if (patronSecreto.Any(c => !colores.Contains(c)) || intentoJugador.Any(c => !colores.Contains(c)))
+        if (patronSecreto.Any(c => !this.colores.Contains(c)) || intentoJugador.Any(c => !this.colores.Contains(c)))
             throw new ArgumentException("El patrón y el intento deben usar los colores configurados.");
         if (cheatCode is not null)
         {
