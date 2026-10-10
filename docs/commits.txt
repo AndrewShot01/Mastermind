@@ -1,0 +1,5 @@
+﻿44ce597 Initial commit
+f19b2f0 Implement basic Mastermind evaluator without double counting
+b0e37bf Add basic evaluator unit tests
+ad17740 Add validation logging dynamic colors and session cheat codes
+7e2b107 Verify advanced requirements and preserve basic test compatibility
